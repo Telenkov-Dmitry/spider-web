@@ -3,7 +3,7 @@
   width: 300px;
   height: 140px;
   border: groove orange 3px;
-  border-radius: 50px 15px 50px 15px;
+  border-radius: 50px 40px 30px 15px;
   background: magenta;
 }
 p.about {
@@ -21,7 +21,7 @@ body {
 }
 .about p{
   text-indent: 10px;
-  font-style: sans-serif;
+  font-style: serif;
 }
 .contacts {
   font-style: 'Times New Roman';
